@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: rgb(29, 29, 161);
+    text-align: center;
+}
+fieldset {
+    background-color: aqua;
+}
+legend {
+    background-color: red;
+    color: white;
+}
+.boton {
+    background-color: yellow;
+}
+div {
+    display: flex;
+    justify-content: center;
+
+}
+
+#botonMostrar {
+background-color: rgb(250, 206, 206);
+border-radius: 10px;
+text-align: center;
+margin-top: 10px;
+}
+
+.right{
+    color: green;
+    font-weight: bold ;
+}
+
+.wrong{
+    color: red;
+    font-weight: bold;
+}
+
+.hidetext{
+    display: none;
+}
